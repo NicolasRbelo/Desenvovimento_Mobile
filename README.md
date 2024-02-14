@@ -10,17 +10,17 @@
 <img loading="lazy" src="https://img.shields.io/badge/Curso-Faculdade_Impacta_ADS-darkblue">
 </p>
 
-<p>
+<p align="center">
 Esse projeto ainda está começando a caminhar em direção ao primeiros estagios(Em poucas palavras não tenho a menor ideia do que vou fazer ;) )
 </p>
 
-<h2>Como fazer uso desse projeto</h2>
+<h2>🎖️Como colocar o arquivo?</h2>
 <p>Caso vc ja possua um intelliJ baixado e ele contem algum item importante seu apenas baixe o main.kt e coloque na pasta de kotlin, se nescesario troque o nome do arquivo
 baixado para o que vc preferir. Na circustacia em que vc acabou de baixar o intelliJ siga o caminho igual ao que esta aqui no git e coloque esse o arquivo main nele e faça parte 
- do primeiro processo.
+do primeiro processo.
 </p>
 
-> :construction: Projeto em construção :construction:
+> :construction: Projeto em construção :construction: <
 
 <h2>Tecnologia Utilizada</h2>
 <ul>
