@@ -7,7 +7,7 @@
 
 ![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-lightgreen)
 ![Badge para a materia](https://img.shields.io/badge/Materia-Desenvolvimento_Mobile-blue)
-![Badge para o curso](https://img.shields.io/badge/Curso-Faculdade_Impacta-darkblue)
+![Badge para o curso](https://img.shields.io/badge/Curso-Faculdade_Impacta_ADS-darkblue)
 <p>
 Esse projeto ainda está começando a caminhar em direção ao primeiros estagios(Em poucas palavras não tenho a menor ideia do que vou fazer ;) )
 </p>
