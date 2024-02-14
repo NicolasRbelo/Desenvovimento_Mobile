@@ -13,7 +13,10 @@ Esse projeto ainda está começando a caminhar em direção ao primeiros estagio
 </p>
 
 <h2>Como fazer uso desse projeto</h2>
-<p>è só baixar e abrir com IntelliJ</p>
+<p>Caso vc ja possua um intelliJ baixado e ele contem algum item importante seu apenas baixe o main.kt e coloque na pasta de kotlin, se nescesario troque o nome do arquivo
+baixado para o que vc preferir. Na circustacia em que vc acabou de baixar o intelliJ siga o caminho igual ao que esta aqui no git e coloque esse o arquivo main nele e faça parte 
+ do primeiro processo.
+</p>
 
 > :construction: Projeto em construção :construction:
 
