@@ -4,10 +4,12 @@
 <p align="center">
 <img loading="lazy" src="https://github.com/NicolasRbelo/Desenvovimento_Mobile/assets/140281624/564f0954-2130-4f55-9497-d99d179aa644">
 </p>
+<p align="center">
+<img loading="lazy" src="https://img.shields.io/badge/Status-Em_Desenvolvimento-lightgreen">
+<img loading="lazy" src="https://img.shields.io/badge/Materia-Desenvolvimento_Mobile-blue">
+<img loading="lazy" src="https://img.shields.io/badge/Curso-Faculdade_Impacta_ADS-darkblue">
+</p>
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em_Desenvolvimento-lightgreen)
-![Badge para a materia](https://img.shields.io/badge/Materia-Desenvolvimento_Mobile-blue)
-![Badge para o curso](https://img.shields.io/badge/Curso-Faculdade_Impacta_ADS-darkblue)
 <p>
 Esse projeto ainda está começando a caminhar em direção ao primeiros estagios(Em poucas palavras não tenho a menor ideia do que vou fazer ;) )
 </p>
