@@ -19,7 +19,7 @@ Esse projeto ainda está começando a caminhar em direção ao primeiros estagio
 
 <h2>Tecnologia Utilizada</h2>
 <ul>
-<li>::marker
+<li>
  <code>IntelliJ IDEA</code>
 </li>
 </ul>
