@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/nome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="24dp"
+        android:ems="10"
+        android:hint="Nome"
+        android:inputType="textPersonName"
+        android:selectAllOnFocus="true" />
+    <EditText
+        android:id="@+id/senha"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/nome"
+        android:layout_alignStart="@id/nome"
+        android:layout_below="@id/nome"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Senha_0_a_9"
+        android:inputType="numberPassword"
+        android:selectAllOnFocus="true"/>
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/senha"
+        android:layout_alignStart="@id/senha"
+        android:layout_below="@id/senha"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:selectAllOnFocus="true"/>
+
+    <EditText
+        android:id="@+id/data"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/email"
+        android:layout_alignStart="@id/email"
+        android:layout_below="@id/email"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Data"
+        android:inputType="date"
+        android:selectAllOnFocus="true"/>
+    <EditText
+        android:id="@+id/telefone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/data"
+        android:layout_alignStart="@id/data"
+        android:layout_below="@id/data"
+        android:layout_marginTop="19dp"
+        android:ems="10"
+        android:hint="Numero de contato"
+        android:inputType="number"
+        android:selectAllOnFocus="true"/>
+
+    <Button
+        android:id="@+id/botao"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/telefone"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="62dp"
+        android:layout_marginBottom="60dp"
+        android:width="300dp"
+        android:padding="22dp"
+        android:text="Submit"
+        android:textSize="25dp"
+        android:textColor="@color/black"/>
+
+</RelativeLayout>
